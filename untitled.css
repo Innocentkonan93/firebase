@@ -113,7 +113,6 @@ p{
 
 li{
 	font-family: sans-serif;
-	font-weight: bold;
 }
 
 h3{
@@ -187,7 +186,7 @@ i{
 	padding-right: 60px;
 	color: #ee495d;
 }
-@media (max-width: 700px){
+@media (max-width: 300px){
 
 
 
