@@ -186,7 +186,7 @@ i{
 	padding-right: 60px;
 	color: #ee495d;
 }
-@media (min-width: 576px){
+@media (max-width: 576px){
 
 
 
